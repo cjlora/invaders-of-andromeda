@@ -1,0 +1,269 @@
+D:\Documents\School\2020-2021\2nd Term\IT0083 - Game Design 1\FINALS\Tutorial013\Tutorial013\obj\x86\Debug\Tutorial013.csprojAssemblyReference.cache
+D:\Documents\School\2020-2021\2nd Term\IT0083 - Game Design 1\FINALS\Tutorial013\Tutorial013\obj\x86\Debug\Tutorial013.csproj.CoreCompileInputs.cache
+D:\Documents\School\2020-2021\2nd Term\IT0083 - Game Design 1\FINALS\Tutorial013\Tutorial013\bin\Windows\x86\Debug\Content\Content\Fonts\Font.xnb
+D:\Documents\School\2020-2021\2nd Term\IT0083 - Game Design 1\FINALS\Tutorial013\Tutorial013\bin\Windows\x86\Debug\Content\Fonts\Font.xnb
+D:\Documents\School\2020-2021\2nd Term\IT0083 - Game Design 1\FINALS\Tutorial013\Tutorial013\bin\Windows\x86\Debug\Content\Controls\Button.xnb
+D:\Documents\School\2020-2021\2nd Term\IT0083 - Game Design 1\FINALS\Tutorial013\Tutorial013\bin\Windows\x86\Debug\Content\Content\Controls\Button.xnb
+D:\Documents\School\2020-2021\2nd Term\IT0083 - Game Design 1\FINALS\Tutorial013\Tutorial013\bin\Windows\x86\Debug\Content\Content\Bullet.xnb
+D:\Documents\School\2020-2021\2nd Term\IT0083 - Game Design 1\FINALS\Tutorial013\Tutorial013\bin\Windows\x86\Debug\Content\Content\DeadScreen.xnb
+D:\Documents\School\2020-2021\2nd Term\IT0083 - Game Design 1\FINALS\Tutorial013\Tutorial013\bin\Windows\x86\Debug\Content\Content\enemy.xnb
+D:\Documents\School\2020-2021\2nd Term\IT0083 - Game Design 1\FINALS\Tutorial013\Tutorial013\bin\Windows\x86\Debug\Content\Content\Idle.xnb
+D:\Documents\School\2020-2021\2nd Term\IT0083 - Game Design 1\FINALS\Tutorial013\Tutorial013\bin\Windows\x86\Debug\Content\Content\Idle2.xnb
+D:\Documents\School\2020-2021\2nd Term\IT0083 - Game Design 1\FINALS\Tutorial013\Tutorial013\bin\Windows\x86\Debug\Content\Content\Pause.xnb
+D:\Documents\School\2020-2021\2nd Term\IT0083 - Game Design 1\FINALS\Tutorial013\Tutorial013\bin\Windows\x86\Debug\Content\Content\Player.xnb
+D:\Documents\School\2020-2021\2nd Term\IT0083 - Game Design 1\FINALS\Tutorial013\Tutorial013\bin\Windows\x86\Debug\Content\Content\portal.xnb
+D:\Documents\School\2020-2021\2nd Term\IT0083 - Game Design 1\FINALS\Tutorial013\Tutorial013\bin\Windows\x86\Debug\Content\Content\Tile1.xnb
+D:\Documents\School\2020-2021\2nd Term\IT0083 - Game Design 1\FINALS\Tutorial013\Tutorial013\bin\Windows\x86\Debug\Content\Content\Tile2.xnb
+D:\Documents\School\2020-2021\2nd Term\IT0083 - Game Design 1\FINALS\Tutorial013\Tutorial013\bin\Windows\x86\Debug\Content\Content\Walk.xnb
+D:\Documents\School\2020-2021\2nd Term\IT0083 - Game Design 1\FINALS\Tutorial013\Tutorial013\bin\Windows\x86\Debug\Content\Content\Walk2.xnb
+D:\Documents\School\2020-2021\2nd Term\IT0083 - Game Design 1\FINALS\Tutorial013\Tutorial013\bin\Windows\x86\Debug\Content\Bullet.xnb
+D:\Documents\School\2020-2021\2nd Term\IT0083 - Game Design 1\FINALS\Tutorial013\Tutorial013\bin\Windows\x86\Debug\Content\DeadScreen.xnb
+D:\Documents\School\2020-2021\2nd Term\IT0083 - Game Design 1\FINALS\Tutorial013\Tutorial013\bin\Windows\x86\Debug\Content\enemy.xnb
+D:\Documents\School\2020-2021\2nd Term\IT0083 - Game Design 1\FINALS\Tutorial013\Tutorial013\bin\Windows\x86\Debug\Content\Idle.xnb
+D:\Documents\School\2020-2021\2nd Term\IT0083 - Game Design 1\FINALS\Tutorial013\Tutorial013\bin\Windows\x86\Debug\Content\Idle2.xnb
+D:\Documents\School\2020-2021\2nd Term\IT0083 - Game Design 1\FINALS\Tutorial013\Tutorial013\bin\Windows\x86\Debug\Content\Pause.xnb
+D:\Documents\School\2020-2021\2nd Term\IT0083 - Game Design 1\FINALS\Tutorial013\Tutorial013\bin\Windows\x86\Debug\Content\Player.xnb
+D:\Documents\School\2020-2021\2nd Term\IT0083 - Game Design 1\FINALS\Tutorial013\Tutorial013\bin\Windows\x86\Debug\Content\portal.xnb
+D:\Documents\School\2020-2021\2nd Term\IT0083 - Game Design 1\FINALS\Tutorial013\Tutorial013\bin\Windows\x86\Debug\Content\Tile1.xnb
+D:\Documents\School\2020-2021\2nd Term\IT0083 - Game Design 1\FINALS\Tutorial013\Tutorial013\bin\Windows\x86\Debug\Content\Tile2.xnb
+D:\Documents\School\2020-2021\2nd Term\IT0083 - Game Design 1\FINALS\Tutorial013\Tutorial013\bin\Windows\x86\Debug\Content\Walk.xnb
+D:\Documents\School\2020-2021\2nd Term\IT0083 - Game Design 1\FINALS\Tutorial013\Tutorial013\bin\Windows\x86\Debug\Content\Walk2.xnb
+D:\Documents\School\2020-2021\2nd Term\IT0083 - Game Design 1\FINALS\Tutorial013\Tutorial013\bin\Windows\x86\Debug\Tutorial013.exe
+D:\Documents\School\2020-2021\2nd Term\IT0083 - Game Design 1\FINALS\Tutorial013\Tutorial013\bin\Windows\x86\Debug\Tutorial013.pdb
+D:\Documents\School\2020-2021\2nd Term\IT0083 - Game Design 1\FINALS\Tutorial013\Tutorial013\bin\Windows\x86\Debug\MonoGame.Framework.dll
+D:\Documents\School\2020-2021\2nd Term\IT0083 - Game Design 1\FINALS\Tutorial013\Tutorial013\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+D:\Documents\School\2020-2021\2nd Term\IT0083 - Game Design 1\FINALS\Tutorial013\Tutorial013\bin\Windows\x86\Debug\SharpDX.dll
+D:\Documents\School\2020-2021\2nd Term\IT0083 - Game Design 1\FINALS\Tutorial013\Tutorial013\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+D:\Documents\School\2020-2021\2nd Term\IT0083 - Game Design 1\FINALS\Tutorial013\Tutorial013\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+D:\Documents\School\2020-2021\2nd Term\IT0083 - Game Design 1\FINALS\Tutorial013\Tutorial013\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+D:\Documents\School\2020-2021\2nd Term\IT0083 - Game Design 1\FINALS\Tutorial013\Tutorial013\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+D:\Documents\School\2020-2021\2nd Term\IT0083 - Game Design 1\FINALS\Tutorial013\Tutorial013\bin\Windows\x86\Debug\SharpDX.XInput.dll
+D:\Documents\School\2020-2021\2nd Term\IT0083 - Game Design 1\FINALS\Tutorial013\Tutorial013\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+D:\Documents\School\2020-2021\2nd Term\IT0083 - Game Design 1\FINALS\Tutorial013\Tutorial013\bin\Windows\x86\Debug\MonoGame.Framework.xml
+D:\Documents\School\2020-2021\2nd Term\IT0083 - Game Design 1\FINALS\Tutorial013\Tutorial013\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+D:\Documents\School\2020-2021\2nd Term\IT0083 - Game Design 1\FINALS\Tutorial013\Tutorial013\bin\Windows\x86\Debug\SharpDX.xml
+D:\Documents\School\2020-2021\2nd Term\IT0083 - Game Design 1\FINALS\Tutorial013\Tutorial013\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+D:\Documents\School\2020-2021\2nd Term\IT0083 - Game Design 1\FINALS\Tutorial013\Tutorial013\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+D:\Documents\School\2020-2021\2nd Term\IT0083 - Game Design 1\FINALS\Tutorial013\Tutorial013\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+D:\Documents\School\2020-2021\2nd Term\IT0083 - Game Design 1\FINALS\Tutorial013\Tutorial013\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+D:\Documents\School\2020-2021\2nd Term\IT0083 - Game Design 1\FINALS\Tutorial013\Tutorial013\bin\Windows\x86\Debug\SharpDX.XInput.xml
+D:\Documents\School\2020-2021\2nd Term\IT0083 - Game Design 1\FINALS\Tutorial013\Tutorial013\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+D:\Documents\School\2020-2021\2nd Term\IT0083 - Game Design 1\FINALS\Tutorial013\Tutorial013\obj\x86\Debug\Tutorial013.csproj.CopyComplete
+D:\Documents\School\2020-2021\2nd Term\IT0083 - Game Design 1\FINALS\Tutorial013\Tutorial013\obj\x86\Debug\Tutorial013.exe
+D:\Documents\School\2020-2021\2nd Term\IT0083 - Game Design 1\FINALS\Tutorial013\Tutorial013\obj\x86\Debug\Tutorial013.pdb
+D:\Documents\School\2020-2021\2nd Term\IT0083 - Game Design 1\FINALS\Tutorial013\Tutorial013\bin\Windows\x86\Debug\Content\gun.xnb
+D:\Documents\School\2020-2021\2nd Term\IT0083 - Game Design 1\FINALS\Tutorial013\Tutorial013\bin\Windows\x86\Debug\Content\Sounds\Pew.xnb
+D:\Documents\School\2020-2021\2nd Term\IT0083 - Game Design 1\FINALS\Tutorial013\Tutorial013\bin\Windows\x86\Debug\Content\Sounds\Stage1.wma
+D:\Documents\School\2020-2021\2nd Term\IT0083 - Game Design 1\FINALS\Tutorial013\Tutorial013\bin\Windows\x86\Debug\Content\Sounds\Stage1.xnb
+D:\Documents\School\2020-2021\2nd Term\IT0083 - Game Design 1\FINALS\Tutorial013\Tutorial013\bin\Windows\x86\Debug\Content\Sounds\Stage2.wma
+D:\Documents\School\2020-2021\2nd Term\IT0083 - Game Design 1\FINALS\Tutorial013\Tutorial013\bin\Windows\x86\Debug\Content\Sounds\Stage2.xnb
+D:\Documents\School\2020-2021\2nd Term\IT0083 - Game Design 1\FINALS\Tutorial013\Tutorial013\bin\Windows\x86\Debug\Content\Sounds\Stage3.wma
+D:\Documents\School\2020-2021\2nd Term\IT0083 - Game Design 1\FINALS\Tutorial013\Tutorial013\bin\Windows\x86\Debug\Content\Sounds\Stage3.xnb
+D:\Documents\School\2020-2021\2nd Term\IT0083 - Game Design 1\FINALS\Tutorial013\Tutorial013\bin\Windows\x86\Debug\Content\background1.xnb
+D:\Documents\School\2020-2021\2nd Term\IT0083 - Game Design 1\FINALS\Tutorial013\Tutorial013\bin\Windows\x86\Debug\Content\background2.xnb
+D:\Documents\School\2020-2021\2nd Term\IT0083 - Game Design 1\FINALS\Tutorial013\Tutorial013\bin\Windows\x86\Debug\Content\boss1.xnb
+D:\Documents\School\2020-2021\2nd Term\IT0083 - Game Design 1\FINALS\Tutorial013\Tutorial013\bin\Windows\x86\Debug\Content\boss2.xnb
+D:\Documents\School\2020-2021\2nd Term\IT0083 - Game Design 1\FINALS\Tutorial013\Tutorial013\bin\Windows\x86\Debug\Content\death_animation.xnb
+D:\Documents\School\2020-2021\2nd Term\IT0083 - Game Design 1\FINALS\Tutorial013\Tutorial013\bin\Windows\x86\Debug\Content\enemy1.xnb
+D:\Documents\School\2020-2021\2nd Term\IT0083 - Game Design 1\FINALS\Tutorial013\Tutorial013\bin\Windows\x86\Debug\Content\enemy2.xnb
+D:\Documents\School\2020-2021\2nd Term\IT0083 - Game Design 1\FINALS\Tutorial013\Tutorial013\bin\Windows\x86\Debug\Content\enemy3.xnb
+D:\Documents\School\2020-2021\2nd Term\IT0083 - Game Design 1\FINALS\Tutorial013\Tutorial013\bin\Windows\x86\Debug\Content\enemy4.xnb
+D:\Documents\School\2020-2021\2nd Term\IT0083 - Game Design 1\FINALS\Tutorial013\Tutorial013\bin\Windows\x86\Debug\Content\enemy5.xnb
+D:\Documents\School\2020-2021\2nd Term\IT0083 - Game Design 1\FINALS\Tutorial013\Tutorial013\bin\Windows\x86\Debug\Content\enemy6.xnb
+D:\Documents\School\2020-2021\2nd Term\IT0083 - Game Design 1\FINALS\Tutorial013\Tutorial013\bin\Windows\x86\Debug\Content\exposion.xnb
+D:\Documents\School\2020-2021\2nd Term\IT0083 - Game Design 1\FINALS\Tutorial013\Tutorial013\bin\Windows\x86\Debug\Content\extra.xnb
+D:\Documents\School\2020-2021\2nd Term\IT0083 - Game Design 1\FINALS\Tutorial013\Tutorial013\bin\Windows\x86\Debug\Content\finish.xnb
+D:\Documents\School\2020-2021\2nd Term\IT0083 - Game Design 1\FINALS\Tutorial013\Tutorial013\bin\Windows\x86\Debug\Content\health.xnb
+D:\Documents\School\2020-2021\2nd Term\IT0083 - Game Design 1\FINALS\Tutorial013\Tutorial013\bin\Windows\x86\Debug\Content\menu.xnb
+D:\Documents\School\2020-2021\2nd Term\IT0083 - Game Design 1\FINALS\Tutorial013\Tutorial013\bin\Windows\x86\Debug\Content\enemyBullet.xnb
+D:\Documents\School\2020-2021\2nd Term\IT0083 - Game Design 1\FINALS\Tutorial013\Tutorial013\bin\Windows\x86\Debug\Content\missile.xnb
+C:\Users\cjlor\source\repos\Tutorial013\Tutorial013\bin\Windows\x86\Debug\Content\Content\Fonts\Font.xnb
+C:\Users\cjlor\source\repos\Tutorial013\Tutorial013\bin\Windows\x86\Debug\Content\Content\Controls\Button.xnb
+C:\Users\cjlor\source\repos\Tutorial013\Tutorial013\bin\Windows\x86\Debug\Content\Content\Bullet.xnb
+C:\Users\cjlor\source\repos\Tutorial013\Tutorial013\bin\Windows\x86\Debug\Content\Content\DeadScreen.xnb
+C:\Users\cjlor\source\repos\Tutorial013\Tutorial013\bin\Windows\x86\Debug\Content\Content\enemy.xnb
+C:\Users\cjlor\source\repos\Tutorial013\Tutorial013\bin\Windows\x86\Debug\Content\Content\Idle.xnb
+C:\Users\cjlor\source\repos\Tutorial013\Tutorial013\bin\Windows\x86\Debug\Content\Content\Idle2.xnb
+C:\Users\cjlor\source\repos\Tutorial013\Tutorial013\bin\Windows\x86\Debug\Content\Content\Pause.xnb
+C:\Users\cjlor\source\repos\Tutorial013\Tutorial013\bin\Windows\x86\Debug\Content\Content\Player.xnb
+C:\Users\cjlor\source\repos\Tutorial013\Tutorial013\bin\Windows\x86\Debug\Content\Content\portal.xnb
+C:\Users\cjlor\source\repos\Tutorial013\Tutorial013\bin\Windows\x86\Debug\Content\Content\Tile1.xnb
+C:\Users\cjlor\source\repos\Tutorial013\Tutorial013\bin\Windows\x86\Debug\Content\Content\Tile2.xnb
+C:\Users\cjlor\source\repos\Tutorial013\Tutorial013\bin\Windows\x86\Debug\Content\Content\Walk.xnb
+C:\Users\cjlor\source\repos\Tutorial013\Tutorial013\bin\Windows\x86\Debug\Content\Content\Walk2.xnb
+C:\Users\cjlor\source\repos\Tutorial013\Tutorial013\bin\Windows\x86\Debug\Content\Sounds\Pew.xnb
+C:\Users\cjlor\source\repos\Tutorial013\Tutorial013\bin\Windows\x86\Debug\Content\Sounds\Stage1.wma
+C:\Users\cjlor\source\repos\Tutorial013\Tutorial013\bin\Windows\x86\Debug\Content\Sounds\Stage1.xnb
+C:\Users\cjlor\source\repos\Tutorial013\Tutorial013\bin\Windows\x86\Debug\Content\Sounds\Stage2.wma
+C:\Users\cjlor\source\repos\Tutorial013\Tutorial013\bin\Windows\x86\Debug\Content\Sounds\Stage2.xnb
+C:\Users\cjlor\source\repos\Tutorial013\Tutorial013\bin\Windows\x86\Debug\Content\Sounds\Stage3.wma
+C:\Users\cjlor\source\repos\Tutorial013\Tutorial013\bin\Windows\x86\Debug\Content\Sounds\Stage3.xnb
+C:\Users\cjlor\source\repos\Tutorial013\Tutorial013\bin\Windows\x86\Debug\Content\Fonts\Font.xnb
+C:\Users\cjlor\source\repos\Tutorial013\Tutorial013\bin\Windows\x86\Debug\Content\Controls\Button.xnb
+C:\Users\cjlor\source\repos\Tutorial013\Tutorial013\bin\Windows\x86\Debug\Content\background1.xnb
+C:\Users\cjlor\source\repos\Tutorial013\Tutorial013\bin\Windows\x86\Debug\Content\background2.xnb
+C:\Users\cjlor\source\repos\Tutorial013\Tutorial013\bin\Windows\x86\Debug\Content\boss1.xnb
+C:\Users\cjlor\source\repos\Tutorial013\Tutorial013\bin\Windows\x86\Debug\Content\boss2.xnb
+C:\Users\cjlor\source\repos\Tutorial013\Tutorial013\bin\Windows\x86\Debug\Content\Bullet.xnb
+C:\Users\cjlor\source\repos\Tutorial013\Tutorial013\bin\Windows\x86\Debug\Content\DeadScreen.xnb
+C:\Users\cjlor\source\repos\Tutorial013\Tutorial013\bin\Windows\x86\Debug\Content\death_animation.xnb
+C:\Users\cjlor\source\repos\Tutorial013\Tutorial013\bin\Windows\x86\Debug\Content\enemy.xnb
+C:\Users\cjlor\source\repos\Tutorial013\Tutorial013\bin\Windows\x86\Debug\Content\enemy1.xnb
+C:\Users\cjlor\source\repos\Tutorial013\Tutorial013\bin\Windows\x86\Debug\Content\enemy2.xnb
+C:\Users\cjlor\source\repos\Tutorial013\Tutorial013\bin\Windows\x86\Debug\Content\enemy3.xnb
+C:\Users\cjlor\source\repos\Tutorial013\Tutorial013\bin\Windows\x86\Debug\Content\enemy4.xnb
+C:\Users\cjlor\source\repos\Tutorial013\Tutorial013\bin\Windows\x86\Debug\Content\enemy5.xnb
+C:\Users\cjlor\source\repos\Tutorial013\Tutorial013\bin\Windows\x86\Debug\Content\enemy6.xnb
+C:\Users\cjlor\source\repos\Tutorial013\Tutorial013\bin\Windows\x86\Debug\Content\enemyBullet.xnb
+C:\Users\cjlor\source\repos\Tutorial013\Tutorial013\bin\Windows\x86\Debug\Content\exposion.xnb
+C:\Users\cjlor\source\repos\Tutorial013\Tutorial013\bin\Windows\x86\Debug\Content\extra.xnb
+C:\Users\cjlor\source\repos\Tutorial013\Tutorial013\bin\Windows\x86\Debug\Content\finish.xnb
+C:\Users\cjlor\source\repos\Tutorial013\Tutorial013\bin\Windows\x86\Debug\Content\gun.xnb
+C:\Users\cjlor\source\repos\Tutorial013\Tutorial013\bin\Windows\x86\Debug\Content\health.xnb
+C:\Users\cjlor\source\repos\Tutorial013\Tutorial013\bin\Windows\x86\Debug\Content\Idle.xnb
+C:\Users\cjlor\source\repos\Tutorial013\Tutorial013\bin\Windows\x86\Debug\Content\Idle2.xnb
+C:\Users\cjlor\source\repos\Tutorial013\Tutorial013\bin\Windows\x86\Debug\Content\menu.xnb
+C:\Users\cjlor\source\repos\Tutorial013\Tutorial013\bin\Windows\x86\Debug\Content\missile.xnb
+C:\Users\cjlor\source\repos\Tutorial013\Tutorial013\bin\Windows\x86\Debug\Content\Pause.xnb
+C:\Users\cjlor\source\repos\Tutorial013\Tutorial013\bin\Windows\x86\Debug\Content\Player.xnb
+C:\Users\cjlor\source\repos\Tutorial013\Tutorial013\bin\Windows\x86\Debug\Content\portal.xnb
+C:\Users\cjlor\source\repos\Tutorial013\Tutorial013\bin\Windows\x86\Debug\Content\Tile1.xnb
+C:\Users\cjlor\source\repos\Tutorial013\Tutorial013\bin\Windows\x86\Debug\Content\Tile2.xnb
+C:\Users\cjlor\source\repos\Tutorial013\Tutorial013\bin\Windows\x86\Debug\Content\Walk.xnb
+C:\Users\cjlor\source\repos\Tutorial013\Tutorial013\bin\Windows\x86\Debug\Content\Walk2.xnb
+C:\Users\cjlor\source\repos\Tutorial013\Tutorial013\bin\Windows\x86\Debug\Tutorial013.exe
+C:\Users\cjlor\source\repos\Tutorial013\Tutorial013\bin\Windows\x86\Debug\Tutorial013.pdb
+C:\Users\cjlor\source\repos\Tutorial013\Tutorial013\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\cjlor\source\repos\Tutorial013\Tutorial013\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\cjlor\source\repos\Tutorial013\Tutorial013\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\cjlor\source\repos\Tutorial013\Tutorial013\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\cjlor\source\repos\Tutorial013\Tutorial013\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\cjlor\source\repos\Tutorial013\Tutorial013\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\cjlor\source\repos\Tutorial013\Tutorial013\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\cjlor\source\repos\Tutorial013\Tutorial013\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\cjlor\source\repos\Tutorial013\Tutorial013\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\cjlor\source\repos\Tutorial013\Tutorial013\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\cjlor\source\repos\Tutorial013\Tutorial013\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\cjlor\source\repos\Tutorial013\Tutorial013\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\cjlor\source\repos\Tutorial013\Tutorial013\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\cjlor\source\repos\Tutorial013\Tutorial013\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\cjlor\source\repos\Tutorial013\Tutorial013\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\cjlor\source\repos\Tutorial013\Tutorial013\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\cjlor\source\repos\Tutorial013\Tutorial013\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\cjlor\source\repos\Tutorial013\Tutorial013\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\cjlor\source\repos\Tutorial013\Tutorial013\obj\x86\Debug\Tutorial013.csprojAssemblyReference.cache
+C:\Users\cjlor\source\repos\Tutorial013\Tutorial013\obj\x86\Debug\Tutorial013.csproj.CoreCompileInputs.cache
+C:\Users\cjlor\source\repos\Tutorial013\Tutorial013\obj\x86\Debug\Tutorial013.csproj.CopyComplete
+C:\Users\cjlor\source\repos\Tutorial013\Tutorial013\obj\x86\Debug\Tutorial013.exe
+C:\Users\cjlor\source\repos\Tutorial013\Tutorial013\obj\x86\Debug\Tutorial013.pdb
+C:\Users\cjlor\source\repos\Tutorial013\Tutorial013\bin\Windows\x86\Debug\Content\mute.xnb
+C:\Users\cjlor\source\repos\Tutorial013\Tutorial013\bin\Windows\x86\Debug\Content\unmute.xnb
+C:\Users\cjlor\source\repos\Tutorial013\Tutorial013\bin\Windows\x86\Debug\Content\enemy2_bullet.xnb
+C:\Users\cjlor\source\repos\Tutorial013\Tutorial013\bin\Windows\x86\Debug\Content\enemy3_bullet.xnb
+C:\Users\cjlor\source\repos\Tutorial013\Tutorial013\bin\Windows\x86\Debug\Content\player_bullet.xnb
+C:\Users\cjlor\source\repos\Tutorial013\Tutorial013\bin\Windows\x86\Debug\Content\Sounds\ouch.xnb
+C:\Users\cjlor\source\repos\Tutorial013\Tutorial013\bin\Windows\x86\Debug\Content\Sounds\explosion.xnb
+C:\Users\cjlor\source\repos\Tutorial013\Tutorial013\bin\Windows\x86\Debug\Content\Sounds\Stage4.wma
+C:\Users\cjlor\source\repos\Tutorial013\Tutorial013\bin\Windows\x86\Debug\Content\Sounds\Stage4.xnb
+D:\Documents\School\2020-2021\2nd Term\IT0083 - Game Design 1\FINALS\FINAL FAINL VERSION\FINAL_Invaders_of_Andromeda\Tutorial013\bin\Windows\x86\Debug\Content\Content\Fonts\Font.xnb
+D:\Documents\School\2020-2021\2nd Term\IT0083 - Game Design 1\FINALS\FINAL FAINL VERSION\FINAL_Invaders_of_Andromeda\Tutorial013\bin\Windows\x86\Debug\Content\Content\Controls\Button.xnb
+D:\Documents\School\2020-2021\2nd Term\IT0083 - Game Design 1\FINALS\FINAL FAINL VERSION\FINAL_Invaders_of_Andromeda\Tutorial013\bin\Windows\x86\Debug\Content\Content\Bullet.xnb
+D:\Documents\School\2020-2021\2nd Term\IT0083 - Game Design 1\FINALS\FINAL FAINL VERSION\FINAL_Invaders_of_Andromeda\Tutorial013\bin\Windows\x86\Debug\Content\Content\DeadScreen.xnb
+D:\Documents\School\2020-2021\2nd Term\IT0083 - Game Design 1\FINALS\FINAL FAINL VERSION\FINAL_Invaders_of_Andromeda\Tutorial013\bin\Windows\x86\Debug\Content\Content\enemy.xnb
+D:\Documents\School\2020-2021\2nd Term\IT0083 - Game Design 1\FINALS\FINAL FAINL VERSION\FINAL_Invaders_of_Andromeda\Tutorial013\bin\Windows\x86\Debug\Content\Content\Idle.xnb
+D:\Documents\School\2020-2021\2nd Term\IT0083 - Game Design 1\FINALS\FINAL FAINL VERSION\FINAL_Invaders_of_Andromeda\Tutorial013\bin\Windows\x86\Debug\Content\Content\Idle2.xnb
+D:\Documents\School\2020-2021\2nd Term\IT0083 - Game Design 1\FINALS\FINAL FAINL VERSION\FINAL_Invaders_of_Andromeda\Tutorial013\bin\Windows\x86\Debug\Content\Content\Pause.xnb
+D:\Documents\School\2020-2021\2nd Term\IT0083 - Game Design 1\FINALS\FINAL FAINL VERSION\FINAL_Invaders_of_Andromeda\Tutorial013\bin\Windows\x86\Debug\Content\Content\Player.xnb
+D:\Documents\School\2020-2021\2nd Term\IT0083 - Game Design 1\FINALS\FINAL FAINL VERSION\FINAL_Invaders_of_Andromeda\Tutorial013\bin\Windows\x86\Debug\Content\Content\portal.xnb
+D:\Documents\School\2020-2021\2nd Term\IT0083 - Game Design 1\FINALS\FINAL FAINL VERSION\FINAL_Invaders_of_Andromeda\Tutorial013\bin\Windows\x86\Debug\Content\Content\Tile1.xnb
+D:\Documents\School\2020-2021\2nd Term\IT0083 - Game Design 1\FINALS\FINAL FAINL VERSION\FINAL_Invaders_of_Andromeda\Tutorial013\bin\Windows\x86\Debug\Content\Content\Tile2.xnb
+D:\Documents\School\2020-2021\2nd Term\IT0083 - Game Design 1\FINALS\FINAL FAINL VERSION\FINAL_Invaders_of_Andromeda\Tutorial013\bin\Windows\x86\Debug\Content\Content\Walk.xnb
+D:\Documents\School\2020-2021\2nd Term\IT0083 - Game Design 1\FINALS\FINAL FAINL VERSION\FINAL_Invaders_of_Andromeda\Tutorial013\bin\Windows\x86\Debug\Content\Content\Walk2.xnb
+D:\Documents\School\2020-2021\2nd Term\IT0083 - Game Design 1\FINALS\FINAL FAINL VERSION\FINAL_Invaders_of_Andromeda\Tutorial013\bin\Windows\x86\Debug\Content\missile.xnb
+D:\Documents\School\2020-2021\2nd Term\IT0083 - Game Design 1\FINALS\FINAL FAINL VERSION\FINAL_Invaders_of_Andromeda\Tutorial013\bin\Windows\x86\Debug\Content\Sounds\explosion.xnb
+D:\Documents\School\2020-2021\2nd Term\IT0083 - Game Design 1\FINALS\FINAL FAINL VERSION\FINAL_Invaders_of_Andromeda\Tutorial013\bin\Windows\x86\Debug\Content\Sounds\ouch.xnb
+D:\Documents\School\2020-2021\2nd Term\IT0083 - Game Design 1\FINALS\FINAL FAINL VERSION\FINAL_Invaders_of_Andromeda\Tutorial013\bin\Windows\x86\Debug\Content\Sounds\Pew.xnb
+D:\Documents\School\2020-2021\2nd Term\IT0083 - Game Design 1\FINALS\FINAL FAINL VERSION\FINAL_Invaders_of_Andromeda\Tutorial013\bin\Windows\x86\Debug\Content\Sounds\Stage1.wma
+D:\Documents\School\2020-2021\2nd Term\IT0083 - Game Design 1\FINALS\FINAL FAINL VERSION\FINAL_Invaders_of_Andromeda\Tutorial013\bin\Windows\x86\Debug\Content\Sounds\Stage1.xnb
+D:\Documents\School\2020-2021\2nd Term\IT0083 - Game Design 1\FINALS\FINAL FAINL VERSION\FINAL_Invaders_of_Andromeda\Tutorial013\bin\Windows\x86\Debug\Content\Sounds\Stage2.wma
+D:\Documents\School\2020-2021\2nd Term\IT0083 - Game Design 1\FINALS\FINAL FAINL VERSION\FINAL_Invaders_of_Andromeda\Tutorial013\bin\Windows\x86\Debug\Content\Sounds\Stage2.xnb
+D:\Documents\School\2020-2021\2nd Term\IT0083 - Game Design 1\FINALS\FINAL FAINL VERSION\FINAL_Invaders_of_Andromeda\Tutorial013\bin\Windows\x86\Debug\Content\Sounds\Stage3.wma
+D:\Documents\School\2020-2021\2nd Term\IT0083 - Game Design 1\FINALS\FINAL FAINL VERSION\FINAL_Invaders_of_Andromeda\Tutorial013\bin\Windows\x86\Debug\Content\Sounds\Stage3.xnb
+D:\Documents\School\2020-2021\2nd Term\IT0083 - Game Design 1\FINALS\FINAL FAINL VERSION\FINAL_Invaders_of_Andromeda\Tutorial013\bin\Windows\x86\Debug\Content\Sounds\Stage4.wma
+D:\Documents\School\2020-2021\2nd Term\IT0083 - Game Design 1\FINALS\FINAL FAINL VERSION\FINAL_Invaders_of_Andromeda\Tutorial013\bin\Windows\x86\Debug\Content\Sounds\Stage4.xnb
+D:\Documents\School\2020-2021\2nd Term\IT0083 - Game Design 1\FINALS\FINAL FAINL VERSION\FINAL_Invaders_of_Andromeda\Tutorial013\bin\Windows\x86\Debug\Content\Controls\Button.xnb
+D:\Documents\School\2020-2021\2nd Term\IT0083 - Game Design 1\FINALS\FINAL FAINL VERSION\FINAL_Invaders_of_Andromeda\Tutorial013\bin\Windows\x86\Debug\Content\Fonts\Font.xnb
+D:\Documents\School\2020-2021\2nd Term\IT0083 - Game Design 1\FINALS\FINAL FAINL VERSION\FINAL_Invaders_of_Andromeda\Tutorial013\bin\Windows\x86\Debug\Content\background1.xnb
+D:\Documents\School\2020-2021\2nd Term\IT0083 - Game Design 1\FINALS\FINAL FAINL VERSION\FINAL_Invaders_of_Andromeda\Tutorial013\bin\Windows\x86\Debug\Content\background2.xnb
+D:\Documents\School\2020-2021\2nd Term\IT0083 - Game Design 1\FINALS\FINAL FAINL VERSION\FINAL_Invaders_of_Andromeda\Tutorial013\bin\Windows\x86\Debug\Content\boss1.xnb
+D:\Documents\School\2020-2021\2nd Term\IT0083 - Game Design 1\FINALS\FINAL FAINL VERSION\FINAL_Invaders_of_Andromeda\Tutorial013\bin\Windows\x86\Debug\Content\boss2.xnb
+D:\Documents\School\2020-2021\2nd Term\IT0083 - Game Design 1\FINALS\FINAL FAINL VERSION\FINAL_Invaders_of_Andromeda\Tutorial013\bin\Windows\x86\Debug\Content\Bullet.xnb
+D:\Documents\School\2020-2021\2nd Term\IT0083 - Game Design 1\FINALS\FINAL FAINL VERSION\FINAL_Invaders_of_Andromeda\Tutorial013\bin\Windows\x86\Debug\Content\DeadScreen.xnb
+D:\Documents\School\2020-2021\2nd Term\IT0083 - Game Design 1\FINALS\FINAL FAINL VERSION\FINAL_Invaders_of_Andromeda\Tutorial013\bin\Windows\x86\Debug\Content\death_animation.xnb
+D:\Documents\School\2020-2021\2nd Term\IT0083 - Game Design 1\FINALS\FINAL FAINL VERSION\FINAL_Invaders_of_Andromeda\Tutorial013\bin\Windows\x86\Debug\Content\enemy.xnb
+D:\Documents\School\2020-2021\2nd Term\IT0083 - Game Design 1\FINALS\FINAL FAINL VERSION\FINAL_Invaders_of_Andromeda\Tutorial013\bin\Windows\x86\Debug\Content\enemy1.xnb
+D:\Documents\School\2020-2021\2nd Term\IT0083 - Game Design 1\FINALS\FINAL FAINL VERSION\FINAL_Invaders_of_Andromeda\Tutorial013\bin\Windows\x86\Debug\Content\enemy2.xnb
+D:\Documents\School\2020-2021\2nd Term\IT0083 - Game Design 1\FINALS\FINAL FAINL VERSION\FINAL_Invaders_of_Andromeda\Tutorial013\bin\Windows\x86\Debug\Content\enemy2_bullet.xnb
+D:\Documents\School\2020-2021\2nd Term\IT0083 - Game Design 1\FINALS\FINAL FAINL VERSION\FINAL_Invaders_of_Andromeda\Tutorial013\bin\Windows\x86\Debug\Content\enemy3.xnb
+D:\Documents\School\2020-2021\2nd Term\IT0083 - Game Design 1\FINALS\FINAL FAINL VERSION\FINAL_Invaders_of_Andromeda\Tutorial013\bin\Windows\x86\Debug\Content\enemy3_bullet.xnb
+D:\Documents\School\2020-2021\2nd Term\IT0083 - Game Design 1\FINALS\FINAL FAINL VERSION\FINAL_Invaders_of_Andromeda\Tutorial013\bin\Windows\x86\Debug\Content\enemy4.xnb
+D:\Documents\School\2020-2021\2nd Term\IT0083 - Game Design 1\FINALS\FINAL FAINL VERSION\FINAL_Invaders_of_Andromeda\Tutorial013\bin\Windows\x86\Debug\Content\enemy5.xnb
+D:\Documents\School\2020-2021\2nd Term\IT0083 - Game Design 1\FINALS\FINAL FAINL VERSION\FINAL_Invaders_of_Andromeda\Tutorial013\bin\Windows\x86\Debug\Content\enemy6.xnb
+D:\Documents\School\2020-2021\2nd Term\IT0083 - Game Design 1\FINALS\FINAL FAINL VERSION\FINAL_Invaders_of_Andromeda\Tutorial013\bin\Windows\x86\Debug\Content\enemyBullet.xnb
+D:\Documents\School\2020-2021\2nd Term\IT0083 - Game Design 1\FINALS\FINAL FAINL VERSION\FINAL_Invaders_of_Andromeda\Tutorial013\bin\Windows\x86\Debug\Content\exposion.xnb
+D:\Documents\School\2020-2021\2nd Term\IT0083 - Game Design 1\FINALS\FINAL FAINL VERSION\FINAL_Invaders_of_Andromeda\Tutorial013\bin\Windows\x86\Debug\Content\extra.xnb
+D:\Documents\School\2020-2021\2nd Term\IT0083 - Game Design 1\FINALS\FINAL FAINL VERSION\FINAL_Invaders_of_Andromeda\Tutorial013\bin\Windows\x86\Debug\Content\finish.xnb
+D:\Documents\School\2020-2021\2nd Term\IT0083 - Game Design 1\FINALS\FINAL FAINL VERSION\FINAL_Invaders_of_Andromeda\Tutorial013\bin\Windows\x86\Debug\Content\gun.xnb
+D:\Documents\School\2020-2021\2nd Term\IT0083 - Game Design 1\FINALS\FINAL FAINL VERSION\FINAL_Invaders_of_Andromeda\Tutorial013\bin\Windows\x86\Debug\Content\health.xnb
+D:\Documents\School\2020-2021\2nd Term\IT0083 - Game Design 1\FINALS\FINAL FAINL VERSION\FINAL_Invaders_of_Andromeda\Tutorial013\bin\Windows\x86\Debug\Content\Idle.xnb
+D:\Documents\School\2020-2021\2nd Term\IT0083 - Game Design 1\FINALS\FINAL FAINL VERSION\FINAL_Invaders_of_Andromeda\Tutorial013\bin\Windows\x86\Debug\Content\Idle2.xnb
+D:\Documents\School\2020-2021\2nd Term\IT0083 - Game Design 1\FINALS\FINAL FAINL VERSION\FINAL_Invaders_of_Andromeda\Tutorial013\bin\Windows\x86\Debug\Content\menu.xnb
+D:\Documents\School\2020-2021\2nd Term\IT0083 - Game Design 1\FINALS\FINAL FAINL VERSION\FINAL_Invaders_of_Andromeda\Tutorial013\bin\Windows\x86\Debug\Content\mute.xnb
+D:\Documents\School\2020-2021\2nd Term\IT0083 - Game Design 1\FINALS\FINAL FAINL VERSION\FINAL_Invaders_of_Andromeda\Tutorial013\bin\Windows\x86\Debug\Content\Pause.xnb
+D:\Documents\School\2020-2021\2nd Term\IT0083 - Game Design 1\FINALS\FINAL FAINL VERSION\FINAL_Invaders_of_Andromeda\Tutorial013\bin\Windows\x86\Debug\Content\Player.xnb
+D:\Documents\School\2020-2021\2nd Term\IT0083 - Game Design 1\FINALS\FINAL FAINL VERSION\FINAL_Invaders_of_Andromeda\Tutorial013\bin\Windows\x86\Debug\Content\player_bullet.xnb
+D:\Documents\School\2020-2021\2nd Term\IT0083 - Game Design 1\FINALS\FINAL FAINL VERSION\FINAL_Invaders_of_Andromeda\Tutorial013\bin\Windows\x86\Debug\Content\portal.xnb
+D:\Documents\School\2020-2021\2nd Term\IT0083 - Game Design 1\FINALS\FINAL FAINL VERSION\FINAL_Invaders_of_Andromeda\Tutorial013\bin\Windows\x86\Debug\Content\Tile1.xnb
+D:\Documents\School\2020-2021\2nd Term\IT0083 - Game Design 1\FINALS\FINAL FAINL VERSION\FINAL_Invaders_of_Andromeda\Tutorial013\bin\Windows\x86\Debug\Content\Tile2.xnb
+D:\Documents\School\2020-2021\2nd Term\IT0083 - Game Design 1\FINALS\FINAL FAINL VERSION\FINAL_Invaders_of_Andromeda\Tutorial013\bin\Windows\x86\Debug\Content\unmute.xnb
+D:\Documents\School\2020-2021\2nd Term\IT0083 - Game Design 1\FINALS\FINAL FAINL VERSION\FINAL_Invaders_of_Andromeda\Tutorial013\bin\Windows\x86\Debug\Content\Walk.xnb
+D:\Documents\School\2020-2021\2nd Term\IT0083 - Game Design 1\FINALS\FINAL FAINL VERSION\FINAL_Invaders_of_Andromeda\Tutorial013\bin\Windows\x86\Debug\Content\Walk2.xnb
+D:\Documents\School\2020-2021\2nd Term\IT0083 - Game Design 1\FINALS\FINAL FAINL VERSION\FINAL_Invaders_of_Andromeda\Tutorial013\bin\Windows\x86\Debug\Tutorial013.exe
+D:\Documents\School\2020-2021\2nd Term\IT0083 - Game Design 1\FINALS\FINAL FAINL VERSION\FINAL_Invaders_of_Andromeda\Tutorial013\bin\Windows\x86\Debug\Tutorial013.pdb
+D:\Documents\School\2020-2021\2nd Term\IT0083 - Game Design 1\FINALS\FINAL FAINL VERSION\FINAL_Invaders_of_Andromeda\Tutorial013\bin\Windows\x86\Debug\MonoGame.Framework.dll
+D:\Documents\School\2020-2021\2nd Term\IT0083 - Game Design 1\FINALS\FINAL FAINL VERSION\FINAL_Invaders_of_Andromeda\Tutorial013\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+D:\Documents\School\2020-2021\2nd Term\IT0083 - Game Design 1\FINALS\FINAL FAINL VERSION\FINAL_Invaders_of_Andromeda\Tutorial013\bin\Windows\x86\Debug\SharpDX.dll
+D:\Documents\School\2020-2021\2nd Term\IT0083 - Game Design 1\FINALS\FINAL FAINL VERSION\FINAL_Invaders_of_Andromeda\Tutorial013\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+D:\Documents\School\2020-2021\2nd Term\IT0083 - Game Design 1\FINALS\FINAL FAINL VERSION\FINAL_Invaders_of_Andromeda\Tutorial013\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+D:\Documents\School\2020-2021\2nd Term\IT0083 - Game Design 1\FINALS\FINAL FAINL VERSION\FINAL_Invaders_of_Andromeda\Tutorial013\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+D:\Documents\School\2020-2021\2nd Term\IT0083 - Game Design 1\FINALS\FINAL FAINL VERSION\FINAL_Invaders_of_Andromeda\Tutorial013\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+D:\Documents\School\2020-2021\2nd Term\IT0083 - Game Design 1\FINALS\FINAL FAINL VERSION\FINAL_Invaders_of_Andromeda\Tutorial013\bin\Windows\x86\Debug\SharpDX.XInput.dll
+D:\Documents\School\2020-2021\2nd Term\IT0083 - Game Design 1\FINALS\FINAL FAINL VERSION\FINAL_Invaders_of_Andromeda\Tutorial013\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+D:\Documents\School\2020-2021\2nd Term\IT0083 - Game Design 1\FINALS\FINAL FAINL VERSION\FINAL_Invaders_of_Andromeda\Tutorial013\bin\Windows\x86\Debug\MonoGame.Framework.xml
+D:\Documents\School\2020-2021\2nd Term\IT0083 - Game Design 1\FINALS\FINAL FAINL VERSION\FINAL_Invaders_of_Andromeda\Tutorial013\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+D:\Documents\School\2020-2021\2nd Term\IT0083 - Game Design 1\FINALS\FINAL FAINL VERSION\FINAL_Invaders_of_Andromeda\Tutorial013\bin\Windows\x86\Debug\SharpDX.xml
+D:\Documents\School\2020-2021\2nd Term\IT0083 - Game Design 1\FINALS\FINAL FAINL VERSION\FINAL_Invaders_of_Andromeda\Tutorial013\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+D:\Documents\School\2020-2021\2nd Term\IT0083 - Game Design 1\FINALS\FINAL FAINL VERSION\FINAL_Invaders_of_Andromeda\Tutorial013\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+D:\Documents\School\2020-2021\2nd Term\IT0083 - Game Design 1\FINALS\FINAL FAINL VERSION\FINAL_Invaders_of_Andromeda\Tutorial013\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+D:\Documents\School\2020-2021\2nd Term\IT0083 - Game Design 1\FINALS\FINAL FAINL VERSION\FINAL_Invaders_of_Andromeda\Tutorial013\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+D:\Documents\School\2020-2021\2nd Term\IT0083 - Game Design 1\FINALS\FINAL FAINL VERSION\FINAL_Invaders_of_Andromeda\Tutorial013\bin\Windows\x86\Debug\SharpDX.XInput.xml
+D:\Documents\School\2020-2021\2nd Term\IT0083 - Game Design 1\FINALS\FINAL FAINL VERSION\FINAL_Invaders_of_Andromeda\Tutorial013\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+D:\Documents\School\2020-2021\2nd Term\IT0083 - Game Design 1\FINALS\FINAL FAINL VERSION\FINAL_Invaders_of_Andromeda\Tutorial013\obj\x86\Debug\Tutorial013.csprojAssemblyReference.cache
+D:\Documents\School\2020-2021\2nd Term\IT0083 - Game Design 1\FINALS\FINAL FAINL VERSION\FINAL_Invaders_of_Andromeda\Tutorial013\obj\x86\Debug\Tutorial013.csproj.CoreCompileInputs.cache
+D:\Documents\School\2020-2021\2nd Term\IT0083 - Game Design 1\FINALS\FINAL FAINL VERSION\FINAL_Invaders_of_Andromeda\Tutorial013\obj\x86\Debug\Tutorial013.csproj.CopyComplete
+D:\Documents\School\2020-2021\2nd Term\IT0083 - Game Design 1\FINALS\FINAL FAINL VERSION\FINAL_Invaders_of_Andromeda\Tutorial013\obj\x86\Debug\Tutorial013.exe
+D:\Documents\School\2020-2021\2nd Term\IT0083 - Game Design 1\FINALS\FINAL FAINL VERSION\FINAL_Invaders_of_Andromeda\Tutorial013\obj\x86\Debug\Tutorial013.pdb
+D:\Documents\School\2020-2021\2nd Term\IT0083 - Game Design 1\FINALS\FINAL FAINL VERSION\FINAL_Invaders_of_Andromeda\Tutorial013\bin\Windows\x86\Debug\Content\explosion2.xnb
+D:\Documents\School\2020-2021\2nd Term\IT0083 - Game Design 1\FINALS\FINAL FAINL VERSION\FINAL_Invaders_of_Andromeda\Tutorial013\bin\Windows\x86\Debug\Content\bigger_exposion.xnb
+D:\Documents\School\2020-2021\2nd Term\IT0083 - Game Design 1\FINALS\FINAL FAINL VERSION\FINAL_Invaders_of_Andromeda\Tutorial013\bin\Windows\x86\Debug\Content\biggest_exposion.xnb
+D:\Documents\School\2020-2021\2nd Term\IT0083 - Game Design 1\FINALS\FINAL FAINL VERSION\FINAL_Invaders_of_Andromeda\Tutorial013\bin\Windows\x86\Debug\Content\Sounds\hit_confirm.xnb
+D:\Documents\School\2020-2021\2nd Term\IT0083 - Game Design 1\FINALS\FINAL FAINL VERSION\FINAL_Invaders_of_Andromeda\Tutorial013\bin\Windows\x86\Debug\Content\Sounds\explosion_boss.xnb
+D:\Documents\School\2020-2021\2nd Term\IT0083 - Game Design 1\FINALS\FINAL FAINL VERSION\FINAL_Invaders_of_Andromeda\Tutorial013\bin\Windows\x86\Debug\Content\Sounds\credits.wma
+D:\Documents\School\2020-2021\2nd Term\IT0083 - Game Design 1\FINALS\FINAL FAINL VERSION\FINAL_Invaders_of_Andromeda\Tutorial013\bin\Windows\x86\Debug\Content\Sounds\credits.xnb
+D:\Documents\School\2020-2021\2nd Term\IT0083 - Game Design 1\FINALS\FINAL FAINL VERSION\FINAL_Invaders_of_Andromeda\Tutorial013\bin\Windows\x86\Debug\Content\Sounds\dead.xnb
+D:\Documents\School\2020-2021\2nd Term\IT0083 - Game Design 1\FINALS\FINAL FAINL VERSION\FINAL_Invaders_of_Andromeda\Tutorial013\bin\Windows\x86\Debug\Content\Sounds\mainMenu.wma
+D:\Documents\School\2020-2021\2nd Term\IT0083 - Game Design 1\FINALS\FINAL FAINL VERSION\FINAL_Invaders_of_Andromeda\Tutorial013\bin\Windows\x86\Debug\Content\Sounds\mainMenu.xnb
+D:\Documents\School\2020-2021\2nd Term\IT0083 - Game Design 1\FINALS\FINAL FAINL VERSION\FINAL_Invaders_of_Andromeda\Tutorial013\bin\Windows\x86\Debug\Content\Sounds\playerhit.xnb
+D:\Documents\School\2020-2021\2nd Term\IT0083 - Game Design 1\FINALS\FINAL FAINL VERSION\FINAL_Invaders_of_Andromeda\Tutorial013\bin\Windows\x86\Debug\Content\Sounds\powerUp.xnb
+D:\Documents\School\2020-2021\2nd Term\IT0083 - Game Design 1\FINALS\FINAL FAINL VERSION\FINAL_Invaders_of_Andromeda\Tutorial013\bin\Windows\x86\Debug\Content\bleed.xnb
+D:\Documents\School\2020-2021\2nd Term\IT0083 - Game Design 1\FINALS\FINAL FAINL VERSION\FINAL_Invaders_of_Andromeda\Tutorial013\bin\Windows\x86\Debug\Content\upgrade.xnb

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/cjlor/source/repos/NewPlatformerGame/NewPlatformerGame/Content/Bullet.png</File>
+    <File>C:/Users/cjlor/source/repos/NewPlatformerGame/NewPlatformerGame/Content/Controls/Button.png</File>
+    <File>C:/Users/cjlor/source/repos/NewPlatformerGame/NewPlatformerGame/Content/DeadScreen.png</File>
+    <File>C:/Users/cjlor/source/repos/NewPlatformerGame/NewPlatformerGame/Content/enemy.png</File>
+    <File>C:/Users/cjlor/source/repos/NewPlatformerGame/NewPlatformerGame/Content/Fonts/Font.spritefont</File>
+    <File>C:/Users/cjlor/source/repos/NewPlatformerGame/NewPlatformerGame/Content/Idle.png</File>
+    <File>C:/Users/cjlor/source/repos/NewPlatformerGame/NewPlatformerGame/Content/Idle2.png</File>
+    <File>C:/Users/cjlor/source/repos/NewPlatformerGame/NewPlatformerGame/Content/Pause.png</File>
+    <File>C:/Users/cjlor/source/repos/NewPlatformerGame/NewPlatformerGame/Content/Player.png</File>
+    <File>C:/Users/cjlor/source/repos/NewPlatformerGame/NewPlatformerGame/Content/portal.png</File>
+    <File>C:/Users/cjlor/source/repos/NewPlatformerGame/NewPlatformerGame/Content/Tile1.png</File>
+    <File>C:/Users/cjlor/source/repos/NewPlatformerGame/NewPlatformerGame/Content/Tile2.png</File>
+    <File>C:/Users/cjlor/source/repos/NewPlatformerGame/NewPlatformerGame/Content/Walk.png</File>
+    <File>C:/Users/cjlor/source/repos/NewPlatformerGame/NewPlatformerGame/Content/Walk2.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

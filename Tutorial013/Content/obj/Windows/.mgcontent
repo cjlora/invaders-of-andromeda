@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>D:/Documents/School/2020-2021/2nd Term/IT0083 - Game Design 1/FINALS/FINAL FAINL VERSION/FINAL_Invaders_of_Andromeda/Tutorial013/Content/Bullet.png</File>
+    <File>D:/Documents/School/2020-2021/2nd Term/IT0083 - Game Design 1/FINALS/FINAL FAINL VERSION/FINAL_Invaders_of_Andromeda/Tutorial013/Content/Controls/Button.png</File>
+    <File>D:/Documents/School/2020-2021/2nd Term/IT0083 - Game Design 1/FINALS/FINAL FAINL VERSION/FINAL_Invaders_of_Andromeda/Tutorial013/Content/DeadScreen.png</File>
+    <File>D:/Documents/School/2020-2021/2nd Term/IT0083 - Game Design 1/FINALS/FINAL FAINL VERSION/FINAL_Invaders_of_Andromeda/Tutorial013/Content/enemy.png</File>
+    <File>D:/Documents/School/2020-2021/2nd Term/IT0083 - Game Design 1/FINALS/FINAL FAINL VERSION/FINAL_Invaders_of_Andromeda/Tutorial013/Content/Fonts/Font.spritefont</File>
+    <File>D:/Documents/School/2020-2021/2nd Term/IT0083 - Game Design 1/FINALS/FINAL FAINL VERSION/FINAL_Invaders_of_Andromeda/Tutorial013/Content/Idle.png</File>
+    <File>D:/Documents/School/2020-2021/2nd Term/IT0083 - Game Design 1/FINALS/FINAL FAINL VERSION/FINAL_Invaders_of_Andromeda/Tutorial013/Content/Idle2.png</File>
+    <File>D:/Documents/School/2020-2021/2nd Term/IT0083 - Game Design 1/FINALS/FINAL FAINL VERSION/FINAL_Invaders_of_Andromeda/Tutorial013/Content/Pause.png</File>
+    <File>D:/Documents/School/2020-2021/2nd Term/IT0083 - Game Design 1/FINALS/FINAL FAINL VERSION/FINAL_Invaders_of_Andromeda/Tutorial013/Content/Player.png</File>
+    <File>D:/Documents/School/2020-2021/2nd Term/IT0083 - Game Design 1/FINALS/FINAL FAINL VERSION/FINAL_Invaders_of_Andromeda/Tutorial013/Content/portal.png</File>
+    <File>D:/Documents/School/2020-2021/2nd Term/IT0083 - Game Design 1/FINALS/FINAL FAINL VERSION/FINAL_Invaders_of_Andromeda/Tutorial013/Content/Tile1.png</File>
+    <File>D:/Documents/School/2020-2021/2nd Term/IT0083 - Game Design 1/FINALS/FINAL FAINL VERSION/FINAL_Invaders_of_Andromeda/Tutorial013/Content/Tile2.png</File>
+    <File>D:/Documents/School/2020-2021/2nd Term/IT0083 - Game Design 1/FINALS/FINAL FAINL VERSION/FINAL_Invaders_of_Andromeda/Tutorial013/Content/Walk.png</File>
+    <File>D:/Documents/School/2020-2021/2nd Term/IT0083 - Game Design 1/FINALS/FINAL FAINL VERSION/FINAL_Invaders_of_Andromeda/Tutorial013/Content/Walk2.png</File>
+    <File>D:/Documents/School/2020-2021/2nd Term/IT0083 - Game Design 1/FINALS/FINAL FAINL VERSION/FINAL_Invaders_of_Andromeda/Tutorial013/Content/gun.png</File>
+    <File>D:/Documents/School/2020-2021/2nd Term/IT0083 - Game Design 1/FINALS/FINAL FAINL VERSION/FINAL_Invaders_of_Andromeda/Tutorial013/Content/Sounds/Stage1.mp3</File>
+    <File>D:/Documents/School/2020-2021/2nd Term/IT0083 - Game Design 1/FINALS/FINAL FAINL VERSION/FINAL_Invaders_of_Andromeda/Tutorial013/Content/Sounds/Pew.wav</File>
+    <File>D:/Documents/School/2020-2021/2nd Term/IT0083 - Game Design 1/FINALS/FINAL FAINL VERSION/FINAL_Invaders_of_Andromeda/Tutorial013/Content/Sounds/Stage2.mp3</File>
+    <File>D:/Documents/School/2020-2021/2nd Term/IT0083 - Game Design 1/FINALS/FINAL FAINL VERSION/FINAL_Invaders_of_Andromeda/Tutorial013/Content/Sounds/Stage3.mp3</File>
+    <File>D:/Documents/School/2020-2021/2nd Term/IT0083 - Game Design 1/FINALS/FINAL FAINL VERSION/FINAL_Invaders_of_Andromeda/Tutorial013/Content/background1.png</File>
+    <File>D:/Documents/School/2020-2021/2nd Term/IT0083 - Game Design 1/FINALS/FINAL FAINL VERSION/FINAL_Invaders_of_Andromeda/Tutorial013/Content/background2.png</File>
+    <File>D:/Documents/School/2020-2021/2nd Term/IT0083 - Game Design 1/FINALS/FINAL FAINL VERSION/FINAL_Invaders_of_Andromeda/Tutorial013/Content/boss1.png</File>
+    <File>D:/Documents/School/2020-2021/2nd Term/IT0083 - Game Design 1/FINALS/FINAL FAINL VERSION/FINAL_Invaders_of_Andromeda/Tutorial013/Content/boss2.png</File>
+    <File>D:/Documents/School/2020-2021/2nd Term/IT0083 - Game Design 1/FINALS/FINAL FAINL VERSION/FINAL_Invaders_of_Andromeda/Tutorial013/Content/death_animation.png</File>
+    <File>D:/Documents/School/2020-2021/2nd Term/IT0083 - Game Design 1/FINALS/FINAL FAINL VERSION/FINAL_Invaders_of_Andromeda/Tutorial013/Content/enemy1.png</File>
+    <File>D:/Documents/School/2020-2021/2nd Term/IT0083 - Game Design 1/FINALS/FINAL FAINL VERSION/FINAL_Invaders_of_Andromeda/Tutorial013/Content/enemy2.png</File>
+    <File>D:/Documents/School/2020-2021/2nd Term/IT0083 - Game Design 1/FINALS/FINAL FAINL VERSION/FINAL_Invaders_of_Andromeda/Tutorial013/Content/enemy3.png</File>
+    <File>D:/Documents/School/2020-2021/2nd Term/IT0083 - Game Design 1/FINALS/FINAL FAINL VERSION/FINAL_Invaders_of_Andromeda/Tutorial013/Content/enemy4.png</File>
+    <File>D:/Documents/School/2020-2021/2nd Term/IT0083 - Game Design 1/FINALS/FINAL FAINL VERSION/FINAL_Invaders_of_Andromeda/Tutorial013/Content/enemy5.png</File>
+    <File>D:/Documents/School/2020-2021/2nd Term/IT0083 - Game Design 1/FINALS/FINAL FAINL VERSION/FINAL_Invaders_of_Andromeda/Tutorial013/Content/enemy6.png</File>
+    <File>D:/Documents/School/2020-2021/2nd Term/IT0083 - Game Design 1/FINALS/FINAL FAINL VERSION/FINAL_Invaders_of_Andromeda/Tutorial013/Content/exposion.png</File>
+    <File>D:/Documents/School/2020-2021/2nd Term/IT0083 - Game Design 1/FINALS/FINAL FAINL VERSION/FINAL_Invaders_of_Andromeda/Tutorial013/Content/extra.png</File>
+    <File>D:/Documents/School/2020-2021/2nd Term/IT0083 - Game Design 1/FINALS/FINAL FAINL VERSION/FINAL_Invaders_of_Andromeda/Tutorial013/Content/finish.png</File>
+    <File>D:/Documents/School/2020-2021/2nd Term/IT0083 - Game Design 1/FINALS/FINAL FAINL VERSION/FINAL_Invaders_of_Andromeda/Tutorial013/Content/health.png</File>
+    <File>D:/Documents/School/2020-2021/2nd Term/IT0083 - Game Design 1/FINALS/FINAL FAINL VERSION/FINAL_Invaders_of_Andromeda/Tutorial013/Content/menu.png</File>
+    <File>D:/Documents/School/2020-2021/2nd Term/IT0083 - Game Design 1/FINALS/FINAL FAINL VERSION/FINAL_Invaders_of_Andromeda/Tutorial013/Content/enemyBullet.png</File>
+    <File>D:/Documents/School/2020-2021/2nd Term/IT0083 - Game Design 1/FINALS/FINAL FAINL VERSION/FINAL_Invaders_of_Andromeda/Tutorial013/Content/mute.png</File>
+    <File>D:/Documents/School/2020-2021/2nd Term/IT0083 - Game Design 1/FINALS/FINAL FAINL VERSION/FINAL_Invaders_of_Andromeda/Tutorial013/Content/unmute.png</File>
+    <File>D:/Documents/School/2020-2021/2nd Term/IT0083 - Game Design 1/FINALS/FINAL FAINL VERSION/FINAL_Invaders_of_Andromeda/Tutorial013/Content/player_bullet.png</File>
+    <File>D:/Documents/School/2020-2021/2nd Term/IT0083 - Game Design 1/FINALS/FINAL FAINL VERSION/FINAL_Invaders_of_Andromeda/Tutorial013/Content/enemy2_bullet.png</File>
+    <File>D:/Documents/School/2020-2021/2nd Term/IT0083 - Game Design 1/FINALS/FINAL FAINL VERSION/FINAL_Invaders_of_Andromeda/Tutorial013/Content/enemy3_bullet.png</File>
+    <File>D:/Documents/School/2020-2021/2nd Term/IT0083 - Game Design 1/FINALS/FINAL FAINL VERSION/FINAL_Invaders_of_Andromeda/Tutorial013/Content/Sounds/ouch.wav</File>
+    <File>D:/Documents/School/2020-2021/2nd Term/IT0083 - Game Design 1/FINALS/FINAL FAINL VERSION/FINAL_Invaders_of_Andromeda/Tutorial013/Content/Sounds/explosion.wav</File>
+    <File>D:/Documents/School/2020-2021/2nd Term/IT0083 - Game Design 1/FINALS/FINAL FAINL VERSION/FINAL_Invaders_of_Andromeda/Tutorial013/Content/Sounds/Stage4.mp3</File>
+    <File>D:/Documents/School/2020-2021/2nd Term/IT0083 - Game Design 1/FINALS/FINAL FAINL VERSION/FINAL_Invaders_of_Andromeda/Tutorial013/Content/explosion2.png</File>
+    <File>D:/Documents/School/2020-2021/2nd Term/IT0083 - Game Design 1/FINALS/FINAL FAINL VERSION/FINAL_Invaders_of_Andromeda/Tutorial013/Content/bigger_exposion.png</File>
+    <File>D:/Documents/School/2020-2021/2nd Term/IT0083 - Game Design 1/FINALS/FINAL FAINL VERSION/FINAL_Invaders_of_Andromeda/Tutorial013/Content/biggest_exposion.png</File>
+    <File>D:/Documents/School/2020-2021/2nd Term/IT0083 - Game Design 1/FINALS/FINAL FAINL VERSION/FINAL_Invaders_of_Andromeda/Tutorial013/Content/Sounds/hit_confirm.wav</File>
+    <File>D:/Documents/School/2020-2021/2nd Term/IT0083 - Game Design 1/FINALS/FINAL FAINL VERSION/FINAL_Invaders_of_Andromeda/Tutorial013/Content/Sounds/explosion_boss.wav</File>
+    <File>D:/Documents/School/2020-2021/2nd Term/IT0083 - Game Design 1/FINALS/FINAL FAINL VERSION/FINAL_Invaders_of_Andromeda/Tutorial013/Content/Sounds/credits.mp3</File>
+    <File>D:/Documents/School/2020-2021/2nd Term/IT0083 - Game Design 1/FINALS/FINAL FAINL VERSION/FINAL_Invaders_of_Andromeda/Tutorial013/Content/Sounds/dead.wav</File>
+    <File>D:/Documents/School/2020-2021/2nd Term/IT0083 - Game Design 1/FINALS/FINAL FAINL VERSION/FINAL_Invaders_of_Andromeda/Tutorial013/Content/Sounds/mainMenu.mp3</File>
+    <File>D:/Documents/School/2020-2021/2nd Term/IT0083 - Game Design 1/FINALS/FINAL FAINL VERSION/FINAL_Invaders_of_Andromeda/Tutorial013/Content/Sounds/playerhit.wav</File>
+    <File>D:/Documents/School/2020-2021/2nd Term/IT0083 - Game Design 1/FINALS/FINAL FAINL VERSION/FINAL_Invaders_of_Andromeda/Tutorial013/Content/Sounds/powerUp.wav</File>
+    <File>D:/Documents/School/2020-2021/2nd Term/IT0083 - Game Design 1/FINALS/FINAL FAINL VERSION/FINAL_Invaders_of_Andromeda/Tutorial013/Content/bleed.png</File>
+    <File>D:/Documents/School/2020-2021/2nd Term/IT0083 - Game Design 1/FINALS/FINAL FAINL VERSION/FINAL_Invaders_of_Andromeda/Tutorial013/Content/upgrade.png</File>
+  </SourceFiles>
+</SourceFileCollection>

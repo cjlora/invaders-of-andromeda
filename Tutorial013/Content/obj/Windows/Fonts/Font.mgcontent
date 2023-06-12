@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>D:/Documents/School/2020-2021/2nd Term/IT0083 - Game Design 1/FINALS/FINAL FAINL VERSION/FINAL_Invaders_of_Andromeda/Tutorial013/Content/Fonts/Font.spritefont</SourceFile>
+  <SourceTime>2021-04-04T07:34:10+08:00</SourceTime>
+  <DestFile>D:/Documents/School/2020-2021/2nd Term/IT0083 - Game Design 1/FINALS/FINAL FAINL VERSION/FINAL_Invaders_of_Andromeda/Tutorial013/Content/bin/Windows/Fonts/Font.xnb</DestFile>
+  <DestTime>2021-04-05T05:36:03.8225577+08:00</DestTime>
+  <Importer>FontDescriptionImporter</Importer>
+  <ImporterTime>2017-03-01T23:05:36+08:00</ImporterTime>
+  <Processor>FontDescriptionProcessor</Processor>
+  <ProcessorTime>2017-03-01T23:05:36+08:00</ProcessorTime>
+  <Parameters>
+    <Key>PremultiplyAlpha</Key>
+    <Value>True</Value>
+  </Parameters>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>Compressed</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>
